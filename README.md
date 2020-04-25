@@ -10,8 +10,8 @@ The app lists top attractions, restaurants, public places, or events for the cit
 
 
 ## Screenshots
-![s1](https://user-images.githubusercontent.com/39838697/80272713-ccbe7500-86c3-11ea-9150-1d25b8499781.png)
-![s2](https://user-images.githubusercontent.com/39838697/80272715-cfb96580-86c3-11ea-9175-3768e63aa3f5.png)
+![d2](https://user-images.githubusercontent.com/39838697/80272827-b4028f00-86c4-11ea-8f5b-fec9d003a54a.png)
+![d1](https://user-images.githubusercontent.com/39838697/80272828-b664e900-86c4-11ea-8a79-26ea8bc0164e.png)
 ![s3](https://user-images.githubusercontent.com/39838697/80272716-d0ea9280-86c3-11ea-9599-73e272e24431.png)
 ![s4](https://user-images.githubusercontent.com/39838697/80272719-d5af4680-86c3-11ea-8820-e2cef7a39eb9.png)
 ![s5](https://user-images.githubusercontent.com/39838697/80272723-e52e8f80-86c3-11ea-874a-c1dd315bdf42.png)
