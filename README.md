@@ -15,6 +15,8 @@ The app lists top attractions, restaurants, public places, or events for the cit
 ![s3](https://user-images.githubusercontent.com/39838697/80272716-d0ea9280-86c3-11ea-9599-73e272e24431.png)
 ![s4](https://user-images.githubusercontent.com/39838697/80272719-d5af4680-86c3-11ea-8820-e2cef7a39eb9.png)
 ![s5](https://user-images.githubusercontent.com/39838697/80272723-e52e8f80-86c3-11ea-874a-c1dd315bdf42.png)
+![s6](https://user-images.githubusercontent.com/39838697/80272779-579f6f80-86c4-11ea-9589-99521da4d686.png)
+
 
 ## Disclaimer
 All photos used in the app or promotional collaterals are open-source and royalty free from Unsplash.com.
