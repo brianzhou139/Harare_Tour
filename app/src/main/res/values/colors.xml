@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tab_title_white">#fff</color>
+    <color name="event_view_black">#584747</color>
+    <color name="addnote_background">#E6DFDF</color>
+    <color name="edit_text_color">#35A59A</color>
+    <color name="bg_white">#fff</color>
+    <color name="bg_black">#000</color>
+    <color name="major">#F44336</color>
+    <color name="rugare">#684E4E</color>
+    <color name="rugare2">#684E4E</color>
+    <color name="halaj">#359C93</color>
+    <color name="major2">#009688</color>
+</resources>
